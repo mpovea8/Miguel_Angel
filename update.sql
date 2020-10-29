@@ -1,1 +1,1 @@
-update curso set nombre = "MiguelAngel" where nombre like "Miguel Angel";
+update curso set nombre = "IAW" where nombre like "ASIR";
